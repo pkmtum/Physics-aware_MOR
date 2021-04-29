@@ -1,6 +1,6 @@
 # [Physics-aware, probabilistic model order reduction with guaranteed stability](https://openreview.net/forum?id=vyY0jnWG-tK)
 
-##Keywords:
+## Keywords:
 - inductive bias
 - probabilistic generative models
 - state-space models
@@ -8,7 +8,7 @@
 - slowness
 - long-term stability
 
-##Content:
+## Content:
 The folder Training contains code and training data based on the Advection-Diffusion example of the paper. 
 The folder Prediction contains a Jupyter-Notebook to visualize the results.
 
